@@ -118,6 +118,14 @@ body {
     color: white;
     padding-bottom: 30px;
 }
-
+.input{
+    text-align: center;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+}
+.habi{
+    text-align: center;
+}
 
 
