@@ -5,7 +5,9 @@ body {
 }
 .bg-img{
     background-image: url(./images/donation7.jpg);
+   background-size: cover;
     background-repeat: no-repeat;
+
     text-align: center;
     color: white;
     width: auto;
